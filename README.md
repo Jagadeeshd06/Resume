@@ -61,14 +61,14 @@
 <h2>Experience</h2>
 <h2>looking for intern</h2>
 <ul>
-<li><p>Exploring Mern to built Ecommerce site (project phase upcoming).</p></li>
-<li><p>Duration:June-aug 2025</p></li>
+<li><p></p></li>
+<li><p></p></p></li>
 </ul>
 <hr>
 <h2>Contact information</h2>
 <p>name:D.jagadeesh Babu</p>
-<p>Email:jagadeeshd901@gmail.com
-<p>Address:pakala,Thirupati(District)</p>
+<p>Email: jagadeeshd06@gmail.com
+<p>Address: pakala,Thirupati(District)</p>
 
 
 </body>
